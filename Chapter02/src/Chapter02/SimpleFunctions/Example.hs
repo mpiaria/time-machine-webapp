@@ -1,6 +1,7 @@
 module Chapter02.SimpleFunctions.Example
   ( firstOrEmpty,
     (+++),
+    reverse2
   )
 where
 
